@@ -1,0 +1,12 @@
+[
+  { "id": 1, "title": "To Kill a Mockingbird", "author": "Harper Lee", "monthRead": "January 2026", "suggestedBy": "Anna" },
+  { "id": 2, "title": "1984", "author": "George Orwell", "monthRead": "February 2026", "suggestedBy": "David" },
+  { "id": 3, "title": "Pride and Prejudice", "author": "Jane Austen", "monthRead": "March 2026", "suggestedBy": "Mei" },
+  { "id": 4, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "monthRead": "April 2026", "suggestedBy": "Omar" },
+  { "id": 5, "title": "The Kite Runner", "author": "Khaled Hosseini", "monthRead": "May 2026", "suggestedBy": "Sofia" },
+  { "id": 6, "title": "The Alchemist", "author": "Paulo Coelho", "monthRead": "June 2026", "suggestedBy": "Liam" },
+  { "id": 7, "title": "Life of Pi", "author": "Yann Martel", "monthRead": "July 2026", "suggestedBy": "Anna" },
+  { "id": 8, "title": "The Handmaid's Tale", "author": "Margaret Atwood", "monthRead": "August 2026", "suggestedBy": "Mei" },
+  { "id": 9, "title": "Educated", "author": "Tara Westover", "monthRead": "September 2026", "suggestedBy": "David" },
+  { "id": 10, "title": "Project Hail Mary", "author": "Andy Weir", "monthRead": "October 2026", "suggestedBy": "Omar" }
+]
